@@ -1,0 +1,25 @@
+{
+    "name": "neesh-theme",
+    "displayName": "Neesh Theme",
+    "description": "A Color Theme originally edited from the Monokai Contrast Theme that is available on the VSCode Marketplace. I loved the theme and used it for a while until I realised the potential of Customisation that VS Code has. This is very similar to the Monokai Contrast Theme edited slightly to better cater to my Preferences",
+    "publisher": "Neesh",
+    "author": {
+        "name":"Neesh Samsi"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neesh Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/neesh-color-theme.json"
+            }
+        ]
+    }
+}
