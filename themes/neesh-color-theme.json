@@ -1,25 +1,11 @@
 {
 	"tokenColors": [
-		{
-			"settings": {
-				"background": "#000000",
-				"foreground": "#FFFFFF",
-				"findHighlight": "#FFE792",
-				"findHighlightForeground": "#000000",
-				"selectionBorder": "#222218",
-				"activeGuide": "#9D550FB0",
-				"bracketsForeground": "#F8F8F2A5",
-				"bracketsOptions": "underline",
-				"bracketContentsForeground": "#F8F8F2A5",
-				"bracketContentsOptions": "underline",
-				"tagsOptions": "stippled_underline"
-			}
-		},
+		
 		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#888877",
+				"foreground": "#FEC49A",
 				"fontStyle": "italic"
 			}
 		},
@@ -27,14 +13,14 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#FFFF88"
+				"foreground": "#FFFF5C"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#FF99FF"
+				"foreground": "#FFFF5C"
 			}
 		},
 		{
@@ -58,7 +44,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"fontStyle": ""
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -81,7 +67,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66DDFF"
+				"foreground": "#33D3FF"
 			}
 		},
 		{
@@ -89,7 +75,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#AAFF33"
+				"foreground": "#B3FF47"
 			}
 		},
 		{
@@ -97,15 +83,15 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#A6FF2E"
+				"foreground": "#B3FF47"
 			}
 		},
 		{
 			"name": "Function name",
 			"scope": "entity.name.function",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#AAFF33"
+				"fontStyle": "italic",
+				"foreground": "#B3FF47"
 			}
 		},
 		{
@@ -113,7 +99,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FF9933"
+				"foreground": "#FFFF5C"
 			}
 		},
 		{
@@ -123,13 +109,13 @@
 				"fontStyle": "",
 				"foreground": "#FF3377"
 			}
-		},
+		}, 
 		{
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#AAFF33"
+				"foreground": "#B3FF47"
 			}
 		},
 		{
@@ -137,7 +123,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#77EEFF"
+				"foreground": "#99E9FF"
 			}
 		},
 		{
@@ -145,7 +131,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66DDFF"
+				"foreground": "#33D3FF"
 			}
 		},
 		{
@@ -156,7 +142,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66DDFF"
+				"foreground": "#33D3FF"
 			}
 		},
 		{
@@ -235,12 +221,14 @@
 		}
 	],
 	"colors": {
-		"editor.background": "#000000",
-		"editorCursor.foreground": "#F8F8F0",
+		"editor.background": "#000",
+		"editorCursor.foreground": "#FFF",
 		"editor.foreground": "#FFFFFF",
 		"editorWhitespace.foreground": "#3B3A32",
 		"editor.lineHighlightBackground": "#3E3D32",
-		"editor.selectionBackground": "#49483E"
+		"editor.selectionBackground": "#49483E",
+		"terminal.background": "#000",
+
 	},
 	"name": "Neesh Theme"
 }

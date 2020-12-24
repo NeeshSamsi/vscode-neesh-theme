@@ -10,6 +10,34 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NeeshSamsi/vscode-neesh-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/NeeshSamsi/vscode-neesh-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "",
+        "theme": "dark"
+    },
+    "icon": "",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Neesh Theme",
+        "Color Theme",
+        "Neesh Samsi",
+        "Dark Theme"
+    ],
+    "badges": [
+        {
+            "url": "",
+            "href": "",
+            "description": ""
+        }
+    ],
     "categories": [
         "Themes"
     ],
