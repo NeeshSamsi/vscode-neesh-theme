@@ -5,7 +5,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#FEC49A",
+				"foreground": "#ffdcc3",
 				"fontStyle": "italic"
 			}
 		},
@@ -13,21 +13,21 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#FFFF5C"
+				"foreground": "#ffff75"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#FFFF5C"
+				"foreground": "#ffff75"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#FF99FF"
+				"foreground": "#FFFF75"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#33D3FF"
+				"foreground": "#4ddfff"
 			}
 		},
 		{
@@ -99,7 +99,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FFFF5C"
+				"foreground": "#FFFF75"
 			}
 		},
 		{
@@ -123,7 +123,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#99E9FF"
+				"foreground": "#9eefff"
 			}
 		},
 		{
@@ -131,7 +131,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#33D3FF"
+				"foreground": "#4ddfff"
 			}
 		},
 		{
@@ -142,7 +142,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#33D3FF"
+				"foreground": "#4ddfff"
 			}
 		},
 		{

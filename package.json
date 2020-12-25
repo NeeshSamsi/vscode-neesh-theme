@@ -18,25 +18,15 @@
         "url": "https://github.com/NeeshSamsi/vscode-neesh-theme/issues"
     },
     "galleryBanner": {
-        "color": "",
+        "color": "#000",
         "theme": "dark"
     },
     "icon": "",
-    "categories": [
-        "Themes"
-    ],
     "keywords": [
         "Neesh Theme",
         "Color Theme",
         "Neesh Samsi",
         "Dark Theme"
-    ],
-    "badges": [
-        {
-            "url": "",
-            "href": "",
-            "description": ""
-        }
     ],
     "categories": [
         "Themes"
